@@ -1,50 +1,5 @@
 关节的致命之痛
 ==============
-## 思维导图
-
-```mermaid
-graph LR
-  subgraph 就诊经历
-    exp1(当天上午)
-    exp2(数天后)
-  end
-
-  exp1 -.- diag1
-  exp1 -.- diag2
-  exp2 -.- diag3
-  exp2 -.- diag4
-  exp2 -.- diag5
-
-  subgraph 关键词
-    diag1((类风湿关节炎))
-    diag2((关节疼痛))
-    diag3((系统性红斑狼疮))
-    diag4((狼疮性肾炎))
-    diag5((抗磷脂抗体综合征))
-  end
-
-  diag1_1(诊断)
-  diag1_2(鉴别诊断)
-  diag2_1(可能的病因)
-  diag3_1(诊断)
-  diag3_2(鉴别诊断)
-  diag4_1(症状)
-  diag4_2(诊断)
-  diag5_1(诊断)
-  diag5_2(治疗)
-
-  diag1 --- diag1_1
-  diag1 --- diag1_2
-  diag2 --- diag2_1
-  diag3 --- diag3_1
-  diag3 --- diag3_2
-  diag4 --- diag4_1
-  diag4 --- diag4_2
-  diag5 --- diag5_1
-  diag5 --- diag5_2
-```
-
-
 ## 过程
 1. 就诊当天上午
     - 主诉：双手近端指间关节疼痛伴疲劳乏力 1 月余
@@ -154,7 +109,25 @@ graph LR
             (e.g. skin abnomality, polyarthritis)
             and laboratory findings
             (e.g. proteinuria, thrombocytopenia)
-    - 症状
+    - 病因 (遗传因素、环境因素、雌激素, etc.)
+    - 愈后: Most live 10 years+ if well controlled
+    - 治疗[^LupusTreatment]
+        - FDA approved meditations
+            - aspirin
+            - corticosteroid
+            - hydroxychloroquine (HCQ): HCQ improves pregnancy outcomes, with fewer lupus flares
+        - B-cell depleters (to reduce the production of cytokines)
+        - Anti–TNF-α agents
+        - Other agents under clinical trials
+            - anti-BAFF agents (BAFF: B-cell–activating factor of the tumor necrosis factor [TNF] family)
+            - cell migration inhibitors
+            - anti-IFN-α and anti-IFN-γ agents
+    - 什么时候可以妊娠[^LupusTreatment]: depends on the duration of well-controlled lupus before conception
+    - 妊娠对 SLE 影响[^WikiSLEPregnance]
+        - Miscarriage
+        - Neonatal lupus
+        - Aggravation of SLE
+        - General preventive measures
 
 1. Lupus nephritis
     - Classification
@@ -175,6 +148,11 @@ graph LR
 [^ANADiag]: https://ahdc.vet.cornell.edu/Sects/ClinPath/test/immun/ana.cfm
 [^AntidsDNARsrch]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4648223/
 [^AboutSLE]: https://www.hss.edu/conditions_understanding-laboratory-tests-and-results-for-systemic-lupus-erythematosus.asp
+[^LupusTreatment]: https://www.rheumatologynetwork.com/lupus/established-and-novel-treatments-lupus
+[^WikiSLEPregnance]: https://en.wikipedia.org/wiki/Systemic_lupus_erythematosus_and_pregnancy
 
 ## 第三幕
+1. SLE 药物治疗的不良反应
+    - HCQ[^LupusTreatment]: The only medication demonstrated to prevent flares during pregnancy
+    - Corticosteroids and AZA: Safe with reduced dosage
 
