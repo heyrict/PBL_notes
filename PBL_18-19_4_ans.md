@@ -110,7 +110,7 @@
             and laboratory findings
             (e.g. proteinuria, thrombocytopenia)
     - 病因 (遗传因素、环境因素、雌激素, etc.)
-    - 愈后: Most live 10 years+ if well controlled
+    - 预后: Most live 10 years+ if well controlled
     - 治疗[^LupusTreatment]
         - FDA approved meditations
             - aspirin
@@ -127,7 +127,6 @@
         - Miscarriage
         - Neonatal lupus
         - Aggravation of SLE
-        - General preventive measures
 
 1. Lupus nephritis
     - Classification
