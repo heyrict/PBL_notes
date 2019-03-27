@@ -1,2 +1,5 @@
 # Auto-generated images
 pd-images/
+
+# Vim swap files
+.*.swp
