@@ -51,6 +51,13 @@
         - Long-term: To prevent recurrent events
             - vitamin K antagonists o.p. for at least 3 m
 
+    - Prognosis
+    - 溶栓治疗如何减少出血风险
+        - Minor bleed: discontinuation of anticoagulant
+        - Major bleed:
+            - Wafarin: Intravenous or oral vitamin K, fresh frozen plasma or prothrombin complex concentrate
+            - Heparin: Protamine sulfate
+
 1. 下肢凹陷性水肿
     - 病因
 
@@ -58,6 +65,7 @@
 
 [^VTERF]: Lijfering WM, Rosendaal FR, Cannegieter SC (2010). "Risk factors for venous thrombosis – current understanding from an epidemiological point of view". Br J Haematol. 149 (6): 824–33. doi:10.1111/j.1365-2141.2010.08206.x. PMID 20456358.
 [^VTEDT]: Scarvelis D, Wells P (2006). "Diagnosis and treatment of deep-vein thrombosis". CMAJ. 175 (9): 1087–92. doi:10.1503/cmaj.060366. PMC 1609160. PMID 17060659.
+[^ANTICOAG]: Dhakal P, et.al. "Reversal of Anticoagulation and Management of Bleeding in Patients on Anticoagulants". PMID 27789605. doi:10.1177/1076029616675970.
 
 ## 第二幕
 1. 骨折
@@ -80,6 +88,11 @@
                 - intra medullary nailing
                 - screw-plate fixation
         - Prognosis (for elderly subjects): 6-month mortality exceeding 25%
+        - Rehabilitation: takes 11 days or longer, depending on the type of surgery[^FREHAB].
+            - Gradual mobilization of the affected limb
+            - Do daily exercises to strengthen the trunk muscles and quadriceps of the affected leg
+            - Avoid Prolonged lifting or pushing of heavy items, stooping, reaching, or jumping
+            - Avoid sitting on a low chair, or for a long period and should use the chair arm for support when standing up
         - Classification
             - Evans-Jenson classification
 
@@ -126,6 +139,7 @@
 1. 家属与病人观点不一致时医生应如何处理
 
 [^TTF]: P. Adam. "Treatment of recent trochanteric fracture in adults". Orthopaedics & Traumatology: Surgery & Research 100(1) S75-S83. doi:10.1016/j.otsr.2013.11.007
-[^IMNVSSPF]: M. Parker, H. Handoll. Gamma and other cephalocondylic intra-medullary nails versus extramedullary implants for extracapsular hip fractures in adults. Cochrane Database Syst Rev (2010). doi:10.1016/j.otsr.2013.11.007.
+[^IMNVSSPF]: M. Parker, H. Handoll. Gamma and other cephalocondylic intra-medullary nails versus extramedullary implants for extracapsular hip fractures in adults. Cochrane Database Syst Rev (2010). doi:10.1016/j.otsr.2013.11.007. PMID 24434365.
+[^FREHAB]: https://www.merckmanuals.com/home/fundamentals/rehabilitation/rehabilitation-after-a-hip-fracture
 ## 第三幕
 
